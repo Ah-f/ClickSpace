@@ -1,0 +1,9 @@
+﻿{
+  "scenes": [
+    "Assets/Scenes/BootScene.unity",
+    "Assets/Scenes/LobbyScene.unity",
+    "Assets/Scenes/RunScene.unity",
+    "Assets/Scenes/ResultScene.unity"
+  ],
+  "notes": "Create these scenes in Unity editor and add to Build Settings in this order."
+}
